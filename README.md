@@ -19,6 +19,6 @@
 | Build-a-Survey-Form                                    | https://md-jubair-mallick.github.io/Build-a-Survey-Form/                                   |
 
 ## Responsive Web Design (React + Redux + Tailwind + TS)
-| Project Name                                           | Live URL                                                                                 |
-|--------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Bank UI                                                | https://bank-ui-bay.vercel.app/ |
+| Project Name                                           | Live URL                          | Repo Link                                               |
+|--------------------------------------------------------|-----------------------------------|---------------------------------------------------------|
+| Bank UI                                                | https://bank-ui-bay.vercel.app/   | https://github.com/Md-Jubair-Mallick/Bank-UI            |
