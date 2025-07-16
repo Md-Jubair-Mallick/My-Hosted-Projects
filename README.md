@@ -1,7 +1,7 @@
 # My Hosted Projects
 
 ## Responsive Web Design (HTML & CSS)
-| Project Name                                           | Repo Link                                                                                  |
+| Project Name                                           | Live URL                                                                                  |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Learn-Typography-by-Building-a-Nutrition-Label Public  | https://md-jubair-mallick.github.io/Learn-Typography-by-Building-a-Nutrition-Label/        |
 | Learn-the-CSS-Box-Model-by-Building-a-Rothko-Painting  | https://md-jubair-mallick.github.io/Learn-the-CSS-Box-Model-by-Building-a-Rothko-Painting/ |
@@ -19,6 +19,6 @@
 | Build-a-Survey-Form                                    | https://md-jubair-mallick.github.io/Build-a-Survey-Form/                                   |
 
 ## Responsive Web Design (React + Redux + Tailwind + TS)
-| Project Name                                           | Repo Link                                                                                  |
+| Project Name                                           | Live URL                                                                                 |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Bank UI                                                | https://bank-ui-bay.vercel.app/ |
