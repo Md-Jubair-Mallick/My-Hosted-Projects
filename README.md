@@ -25,4 +25,4 @@
 | Bank UI                                                | https://bank-ui-bay.vercel.app/   | https://github.com/Md-Jubair-Mallick/Bank-UI            |
 | Dream-Text-AI                                          | https://dream-text-ai.vercel.app/ | https://github.com/Md-Jubair-Mallick/Dream-Text-AI      |
 | Restaurant-Landing-Page                                | https://restaurant-landing-page-sooty.vercel.app/  | https://github.com/Md-Jubair-Mallick/Restaurant-Landing-Page/tree/main  |
-| Xora                                                   |
+| Xora                                                   | | https://github.com/Md-Jubair-Mallick/xora
